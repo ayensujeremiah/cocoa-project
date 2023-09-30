@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: cocoa-project
+    env: docker
+    autoDeploy: false
